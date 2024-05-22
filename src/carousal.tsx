@@ -7,5 +7,5 @@ export interface carousalprops{
 
 export function CarousalCards({yourname}:carousalprops){
     console.log("skjsjsj")
-    return <div>hello motherfuckers {yourname}</div>
+    return <div>suprise motherfuckers {yourname}</div>
 }
